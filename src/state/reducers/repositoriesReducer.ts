@@ -10,7 +10,7 @@ interface RepositoriesState {
 const initialState = {
   loading: false,
   error: null,
-  data: []
+  data: [],
 };
 
 const reducer = (
